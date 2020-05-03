@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55486749-f6c1-4d65-b5f4-95afbd3b0815" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Apostila 02/Demonstração 0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Apostila 02/Demonstração 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Apostila 02/Demonstração 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/video 2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Apostila 02/Demonstração 2.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="13" column="70" lean-forward="true" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+            <state relative-caret-position="462">
+              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Apostila 02/Demonstração 1.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="340">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -46,6 +47,11 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GUILHERME &lt;guilherme.inaba2@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +67,14 @@
         <option value="$PROJECT_DIR$/venv/Apostila 02/Demonstração 1.html" />
         <option value="$PROJECT_DIR$/video 2.html" />
         <option value="$PROJECT_DIR$/venv/Apostila 02/Demonstração 2.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/Demonstracao 0.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/Demonstracao 2.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/Ap 3 demo 1.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 2.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/ap 3 dem 3.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 4.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 5.html" />
+        <option value="$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 6.html" />
       </list>
     </option>
   </component>
@@ -75,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,13 +106,12 @@
               <item name="pi5" type="b2602c69:ProjectViewProjectNode" />
               <item name="pi5" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Apostila 02" type="462c0819:PsiDirectoryNode" />
+              <item name="Apostile 03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,6 +143,14 @@
       <option name="presentableId" value="Default" />
       <updated>1585346508446</updated>
     </task>
+    <task id="LOCAL-00001" summary="apostila 2">
+      <created>1587521354265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587521354265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -154,14 +176,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="apostila 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="apostila 2" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/demonstração 0.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/demonstração 0.html" />
     <entry file="file://$PROJECT_DIR$/video 1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -183,6 +203,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostila 02/Demonstração 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Apostila 02/Demonstração 1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -190,10 +217,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Apostila 02/Demonstração 2.html">
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/Ap 3 demo 1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="13" column="70" lean-forward="true" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/Demonstracao 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="87" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Apostile 03/ap 3 demo 6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
